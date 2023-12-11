@@ -34,12 +34,12 @@ export default defineAppConfig({
       twitter: '',
       instagram: '',
 
-      linkedin: {
+/**      linkedin: {
         icon: 'uil:linkedin',
         label: 'LinkedIn',
         href: 'https://www.linkedin.com/company/nuxtlabs'
       },
-
+**/
       github: 'bsdwiki'
     },
     form: {
