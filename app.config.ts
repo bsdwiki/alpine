@@ -39,6 +39,18 @@ export default defineAppConfig({
         label: 'Bilibili',
         href: 'https://space.bilibili.com/1446875790'
       },
+      
+      Openbsd: {
+        icon: 'simple-icons:openbsd',
+        label: 'OpenBSD',
+        href: 'https://openbsd.org'
+      },
+      Freebsd: {
+        icon: 'mdi:freebsd',
+        label: 'FreeBSD',
+        href: 'https://freebsd.org'
+      },
+
 
       github: 'bsdwiki'
     },
