@@ -11,10 +11,9 @@ export default defineAppConfig({
     header: {
       position: 'left', // possible value are : | 'left' | 'center' | 'right'
       logo: {
-        text: 'BSDWIKI', 
-/*        path: '/openbsd-alt.svg', // path of the logo
-        pathDark: '/openbsd.svg', // path of the logo in dark mode, leave this empty if you want to use the same logo
-        */
+        path: '/freebsd-alt.svg', // path of the logo
+        pathDark: '/freebsd.svg', // path of the logo in dark mode, leave this empty if you want to use the same logo
+        
         alt: 'bsdwiki' // alt of the logo
       }
     },
