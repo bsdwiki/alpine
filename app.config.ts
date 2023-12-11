@@ -37,7 +37,7 @@ export default defineAppConfig({
       Bilibili: {
         icon: 'ri:bilibili-fill',
         label: 'Bilibili',
-        href: 'https://www.linkedin.com/company/freebsd'
+        href: 'https://space.bilibili.com/1446875790'
       },
 
       github: 'bsdwiki'
