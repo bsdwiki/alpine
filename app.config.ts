@@ -43,7 +43,7 @@ export default defineAppConfig({
       },
       
       Openbsd: {
-        icon: 'file-icons:openbsd-alt',
+        icon: 'simple-icons:openbsd',
         label: 'OpenBSD',
         href: 'https://openbsd.org'
       },
