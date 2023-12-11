@@ -1,6 +1,6 @@
 export default defineAppConfig({
   alpine: {
-    title: 'Alpine',
+    title: 'BSDWIKI',
     description: 'The minimalist blog theme',
     image: {
       src: '/social-card-preview.png',
@@ -19,12 +19,12 @@ export default defineAppConfig({
     footer: {
       credits: {
         // possible value are : true | false
-        enabled: true,
+        enabled: false,
 
         // our github repository
         repository: 'https://www.github.com/bsdwiki/alpine',
 
-        text: 'BSDWIKI'
+        text: ''
       },
       navigation: false, // possible value are : true | false
       alignment: 'center', // possible value are : 'none' | 'left' | 'center' | 'right'
