@@ -18,6 +18,9 @@
     "@nuxthq/studio": "^1.0.5",
     "eslint": "^8.50.0",
     "nuxt": "^3.7.4",
-    "vue-gtag-next": "latest"
+    "vue-gtag-next": "latest",
+    "@sentry/vue": "latest"
+    
+    
   }
 }
